@@ -5,12 +5,6 @@ The template is free for personal and commercial use and has been customized to 
 
 ---
 
-## 🔗 Live Demo
-
-[View My Portfolio](https://your-username.github.io/your-repo-name/)  
-*(Replace with your actual GitHub Pages URL)*
-
----
 
 ## 🎨 Template Credit
 
